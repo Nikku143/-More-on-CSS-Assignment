@@ -1,0 +1,18 @@
+nav {
+  background-color: rgb(22, 171, 230);
+  margin: 0;
+  padding: 2px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+li a {
+  padding: 1.5em;
+}
+
+a:hover {
+  color: black;
+}
